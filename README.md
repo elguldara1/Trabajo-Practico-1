@@ -1,3 +1,6 @@
+Repositorio grupal para aprender y practicar el uso de GitHub en la materia Desarrollo Web.
+---------
+
 # Trabajo-Practico-1
 - ¿Qué es un repositorio?  
 - ¿Para qué sirve?  

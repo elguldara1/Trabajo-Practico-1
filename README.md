@@ -15,5 +15,8 @@ proyecto, por ejemplo:
     Archivos JavaScript, que agregan funcionalidades e interacción.
     Imágenes y otros recursos.
     Archivos de texto y documentación del proyecto. 
-- ¿Qué relación tiene un repositorio con un proyecto de desarrollo web?  
+- ¿Qué relación tiene un repositorio con un proyecto de desarrollo web?
+Un proyecto web generalmente está compuesto por muchos archivos que trabajan en
+conjunto. El repositorio permite tener todos esos archivos organizados en un mismo lugar y
+llevar un seguimiento de cómo evoluciona el proyecto.
 - ¿Qué es GitHub y qué relación tiene con Git?

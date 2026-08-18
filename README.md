@@ -6,7 +6,10 @@ Un repositorio es un espacio donde se almacenan y organizan todos los archivos q
 parte de un proyecto. Además de guardar los archivos, permite mantener un registro de los 
 cambios que se van realizando a lo largo del tiempo.
 
-- ¿Para qué sirve?
+2.  ¿Para qué sirve?        
+
+Sirve para guardar, organizar y controlar las distintas versiones de un proyecto. También facilita el trabajo en equipo, porque varias personas pueden participar del mismo proyecto y registrar sus modificaciones sin perder el trabajo anterior.
+
 3. ¿Qué tipo de archivos se pueden guardar?
 
 En un repositorio se pueden guardar prácticamente todos los archivos necesarios para un

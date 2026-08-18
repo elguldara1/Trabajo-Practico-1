@@ -10,6 +10,7 @@ cambios que se van realizando a lo largo del tiempo.
 3. ¿Qué tipo de archivos se pueden guardar?
 En un repositorio se pueden guardar prácticamente todos los archivos necesarios para un
 proyecto, por ejemplo:
+
     •Archivos HTML, que contienen la estructura de una página web.
 
     •Archivos CSS, que definen su diseño y apariencia.

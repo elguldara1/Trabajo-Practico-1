@@ -8,6 +8,7 @@ cambios que se van realizando a lo largo del tiempo.
 
 - ¿Para qué sirve?
 3. ¿Qué tipo de archivos se pueden guardar?
+
 En un repositorio se pueden guardar prácticamente todos los archivos necesarios para un
 proyecto, por ejemplo:
 

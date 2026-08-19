@@ -30,4 +30,11 @@ proyecto, por ejemplo:
 Un proyecto web generalmente está compuesto por muchos archivos que trabajan en
 conjunto. El repositorio permite tener todos esos archivos organizados en un mismo lugar y
 llevar un seguimiento de cómo evoluciona el proyecto.
+
 - ¿Qué es GitHub y qué relación tiene con Git?
+
+Git es la herramienta local que registra los cambios en el código. En cambio, GitHub es la plataforma en la nube donde guardas ese código para respaldarlo o trabajar en equipo.
+
+Git: Se ejecuta en tu computadora sin internet (crea versiones y ramas).
+
+GitHub: Es la web que aloja tus repositorios de Git y añade herramientas de colaboración (como Pull Requests e Issues).
